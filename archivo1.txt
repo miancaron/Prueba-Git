@@ -1,2 +1,2 @@
 archivo1
-cambio en archivo1
+cambio en archivo1 desde Prueba-Git
