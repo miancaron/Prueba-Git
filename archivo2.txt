@@ -1,3 +1,6 @@
 archivo2
 
+cambio en en archivo2
+
 cambio en Prueba-Git2
+
